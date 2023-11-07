@@ -5,7 +5,7 @@ package org.example;
 public class Main {
     public static void main(String[] args) {
 
-
+        /*
         Car car1 = new Car();
         car1.carStart();
 
@@ -17,14 +17,16 @@ public class Main {
         person1.introduction();
         System.out.println(person1);
 
+         */
 
 
-        /*
+
+
         Library l = new Library();
         l.AddBook();
         System.out.println(l);
 
-         */
+
 
     }
 }
